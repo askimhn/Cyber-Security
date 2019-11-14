@@ -1,0 +1,30 @@
+<Intro>
+NIST - National Institute of Standards and Technology 
+
+- Sets standards, Guidelines and Recommended security controls for Federal Information Systems and Organizations.
+
+Extensive Database of Publications includes
+
+- FIPS : Federal Information Processing Standards
+- SP   : NIST Special Publications
+- NISTIR : NIST Internal Reports
+- ITL Bulletin : NIST Information Technology Laboratory Bulletins
+
+Computer Security Resource Center on NIST.GOV - contains complete list of security standards/guidelines/recommendations
+
+NIST 800-53 : special publication 
+<Security and Privacy Controls for Information Systems and Organizations> 
+
+Purpose : Provide guidelines and Best practices for protecting Government's sensitive information and PII of Citizens against cyber attacks.
+
+- this special publication is auhtored by the Joint Task Force.
+
+In combination with NIST 800-53 - SP 800-37 Rev2 was introduced.
+ - 800-37 Rev2 included RMF - Risk Management Framework.
+ 
+ : which helps identify a risk-based approach for using and storing PII, because all data is not equal and is necessary.
+ SP 800-37 should be used in CONJUNCTION with the SP800-53 
+  -- Adds privacy consideration into the design as well as information on how to improve controls for diverse industry groups from public and private sectors to individuals.
+ 
+ 
+ 
