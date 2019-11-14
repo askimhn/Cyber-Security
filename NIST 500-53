@@ -26,5 +26,46 @@ In combination with NIST 800-53 - SP 800-37 Rev2 was introduced.
  SP 800-37 should be used in CONJUNCTION with the SP800-53 
   -- Adds privacy consideration into the design as well as information on how to improve controls for diverse industry groups from public and private sectors to individuals.
  
- 
- 
+ The major changes to the (SP) 800-53 Rev 5 are:
+
+Making the security and privacy controls more outcome-based by changing the structure of the controls;
+Fully integrating the privacy controls into the security control catalog creating a consolidated and unified set of controls for information systems and organizations, while providing summary and mapping tables for privacy-related controls;
+Separating the control selection process from the actual controls, thus allowing the controls to be used by different communities of interest including systems engineers, software developers, enterprise architects; and mission/business owners;
+Promoting integration with different risk management and cyber security approaches and lexicons, including the Cyber Security Framework;
+Clarifying the relationship between security and privacy to improve the selection of controls necessary to address the full scope of security and privacy risks; and
+Incorporating new, state-of-the-practice controls based on threat intelligence and empirical attack data, including controls to strengthen cyber security and privacy governance and accountability.
+
+
+The NIST (SP) 800-53 combined with the (SP) 800-37 establishes a multi-tiered risk approach:
+
+Tier 1 – The Organization
+
+Tier 2 – The Mission Critical or Business Processes
+
+Tier 3 – Information Systems
+
+The main goal is of the organization is to identify a risk-based approach to the information systems that are vital to the operations and continuous service of the organization or agency.
+
+RISK MANAGEMENT FRAMEWORK – Security Life Cycle
+
+The starting point is to follow a 6-step process known as the Security Life Cycle which is as follows, with associated Publication References:
+
+Step 1 – CATAGORIZE Information Systems (FIPS 199/SP 800-60) – IMPACT ASSESSMENT
+
+Step 2 – SELECT Security Controls (FIPS 200/SP 800-53)
+
+Step 3 – IMPLEMENT Security Controls (SP 800-160)
+
+Step 4 – ASSESS Security Controls (SP 800-53A)
+
+Step 5 – AUTHORIZE Information Systems (SP 800-37)
+
+Step 6 – MONITOR Security Controls (SP 800-137) 
+
+The NIST 800-53 is broken into the minimum security controls IMPACT baseline adapted from the FIPS 200 which are:
+
+Low-Impact
+Moderate-Impact
+High-Impact
+
+
