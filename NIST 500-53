@@ -69,3 +69,31 @@ Moderate-Impact
 High-Impact
 
 
+
+The TRUST MODEL
+
+A trust model is referenced within NIST 800-53 which is used to determine the trustworthiness of systems and components based on 
+their ability to meet security requirements, security capabilities, and security functionality along with security assurance based on
+evidence.  This is an area which is growing in importance and is about establishing a trust-based approach and how much risk 
+is acceptable based on the trustworthiness of systems and components will determine how much access they will have.
+
+
+The TAILORING GUIDEANCE
+
+Because all risks are not equal the NIST 800-53 provides tailoring guidance (based on the input from the Initial Security Control Impact Baseline referred to earlier) which, when aligned with the assessment of the organizational risks enables the security controls to be tailored to the acceptable risk.
+
+These guidelines follow the steps below:
+
+Identifying and Designating Common Controls
+Applying Scoping Considerations
+Selecting Compensating Controls
+Assigning Security Control Parameter Values
+Supplementing Baseline Security Controls
+Providing Additional Specification Information for Implementation
+During this process full documentation of the security controls decisions must be agreed upon and maintained to ensure adequate security and protection.
+
+The NIST 800-53 and PRIVILEGED ACCESS
+
+Now, let’s focus on the NIST 800-53 guidelines for privileged access which is referenced in multiple security control identifiers and families.  The main area under Access Controls refers to using a Least Privilege approach in conjunction with Least Functionality. This is considered high-impact and 
+requires giving the users or system only the minimum access required to fulfill the role or function and nothing more.
+
